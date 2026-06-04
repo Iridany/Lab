@@ -28,18 +28,23 @@
 ##  Результаты тестирования
 
 <img width="453" height="435" alt="image" src="https://github.com/user-attachments/assets/cc1b1560-a031-4318-b40a-de1ee650d1e3" />
+
 Рисунок 1 — Главное окно кулинарного конвертера
 
 <img width="453" height="436" alt="image" src="https://github.com/user-attachments/assets/6148d2d8-dd9d-4d5f-a0b4-934e6b5be548" />
+
 Рисунок 2 — Конвертация из американских чашек в милилитры 
 
 <img width="452" height="428" alt="image" src="https://github.com/user-attachments/assets/9bc01a68-d915-4932-9c33-6c2e582f10be" />
+
 Рисунок 3 — Конвертация из милилитры в жидкие унции
 
 <img width="455" height="425" alt="image" src="https://github.com/user-attachments/assets/8c06e0ff-fee6-4238-b7a1-09dfdf39463a" />
+
 Рисунок 4 — Обработка ошибки буквы
 
 <img width="459" height="430" alt="image" src="https://github.com/user-attachments/assets/9bad4888-0005-4031-8e6c-4cb6574c62a1" />
+
 Рисунок 5 — Обработка ошибки отрицательное число
 
 ---
